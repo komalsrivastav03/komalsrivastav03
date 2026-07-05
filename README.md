@@ -1,134 +1,85 @@
-# Hey there! 👋 I'm Komal Srivastav
+<div align="center">
 
-> I turn coffee ☕ into Python code... and occasionally turn bugs into "features."  
-> If it works on the first run, I'm probably dreaming.
+<p align="center">
+  <img 
+    src="./banner.png" 
+    width="100%"
+    height="350px"
+  />
+</p>
 
----
+<br>
 
-## 🚀 About Me
+### AI Engineer • Data Scientist
 
-🎓 Final-year Computer Engineering student with a specialization in AI & ML.
+<img src="https://img.shields.io/badge/Python-FCE4EC?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-F8BBD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-F9A8D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-FCE4EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F8BBD0?style=for-the-badge"/>
 
-I enjoy building things with data—from predicting outcomes to creating dashboards and AI applications that (hopefully) make life easier.
-
-Currently exploring:
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
-- 💬 Large Language Models (LLMs)
-- ☁️ Cloud & Model Deployment
-
-My current mission:
-> Get really good at AI before AI gets really good at replacing me.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- SQL
-- Java (surviving it)
-- HTML/CSS
-
-### Data Science
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- TensorFlow
-- Keras
-- Matplotlib
-- Seaborn
-
-### Data Analytics
-- Power BI
-- Tableau
-- Excel
-- MySQL
-
-### Web & Deployment
-- Flask
-- Streamlit
-- Git
-- GitHub
-
-### Currently Learning
-- LangChain
-- Hugging Face
-- RAG
-- AI Agents
-- AWS
+</div>
 
 ---
 
-## 📂 What You'll Find Here
+<div align="center">
 
-A collection of projects where I:
-- Clean messy datasets (because someone has to.)
-- Train ML models.
-- Build dashboards.
-- Deploy applications.
-- Break things.
-- Fix things.
-- Repeat.
+### About
 
-Basically...
-```
-Train → Fail → Google → Fix → Repeat
-```
+Building AI products with LLMs, RAG pipelines, machine learning, and data analytics while focusing on scalable backend systems and clean user experiences.
+
+</div>
 
 ---
 
-## 📈 Interests
+<table>
+<tr>
 
-✔ Machine Learning
+<td width="50%">
 
-✔ Data Analytics
+### Featured Projects
 
-✔ Generative AI
+- **FinSage** — AI Financial Advisor
+- **Predictive Job Trend Analytics**
+- **LLM + RAG Applications**
+- **Business Intelligence Dashboards**
 
-✔ NLP
+</td>
 
-✔ Computer Vision
+<td width="50%">
 
-✔ Time Series Forecasting
+### Current Focus
 
-✔ AI Agents
+- Generative AI
+- Agentic Workflows
+- Retrieval-Augmented Generation
+- Data Analytics
 
-✔ LLM Applications
+</td>
 
----
-
-## 💡 Fun Facts
-
-- I spend 30% of my time coding.
-- 30% debugging.
-- 40% wondering why it worked after changing absolutely nothing.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-
-🌐 Portfolio: Coming Soon™ (developers know what this means.)
+</tr>
+</table>
 
 ---
 
-## ⚡ Random Quote
+<div align="center">
 
-> "99 little bugs in the code,  
-99 little bugs...  
-Take one down, patch it around,  
-127 little bugs in the code."
+<img src="https://github-readme-stats.vercel.app/api?username=komalsrivastav03&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=EC4899&icon_color=EC4899&text_color=555"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=komalsrivastav03&hide_border=true&background=FFF5F8&ring=EC4899&fire=EC4899&currStreakLabel=EC4899"/>
+
+</div>
 
 ---
 
-### Thanks for visiting! ⭐
+<div align="center">
 
-If any project helps you, consider giving it a ⭐.
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-It keeps my GitHub profile happy.
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FCE4EC?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</div>
